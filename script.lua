@@ -7,8 +7,8 @@ local savedValues = {}
 local startTime = os.time()
 local PASSWORD = "TUX3T"
 local EXPIRE_DATE = os.time({year = 2025, month = 12, day = 31})
-local fancyMessages = {"محمد الشمري يرحب بكم"}
-local SCRIPT_VERSION = "1.0.0"
+local fancyMessages = {"حمودي"}
+local SCRIPT_VERSION = "1.0.1"
 local GITHUB_RAW_URL = "https://raw.githubusercontent.com/karar-les/script-control9/main/script.lua"
 local GITHUB_VERSION_URL = "https://raw.githubusercontent.com/karar-les/script-control9/main/version.txt"
 
